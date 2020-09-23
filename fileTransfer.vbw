@@ -1,0 +1,4 @@
+frmReceive = 44, 44, 599, 494, Z, 22, 22, 577, 472, 
+frmSend = 88, 88, 643, 538, , 66, 66, 621, 516, C
+xferInterface = 176, 176, 731, 626, C
+xferConstants = 88, 88, 483, 538, C
